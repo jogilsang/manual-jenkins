@@ -1,0 +1,2 @@
+# manual-jenkins
+for me
